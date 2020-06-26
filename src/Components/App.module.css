@@ -1,0 +1,13 @@
+.container {
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-gap: 16px;
+  padding-bottom: 24px;
+}
+
+.img {
+  display: block;
+  max-width: 60%;
+  margin: 0 auto;
+  height: auto;
+}
